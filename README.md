@@ -1,42 +1,55 @@
-<!--qui je suis-->
+- # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Hi, I’m Julien GUILBAUD <!--qui je suis-->
 
-- # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Hi, I’m Julien GUILBAUD
+- ## 🏢 I'm a student at [O'CLOCK](https://oclock.io/) in accessibility web developer <!--ce que je suis-->
 
-<!--ce que je suis--> 
+- ## 👀 I’m interested in all development languages <!--ce qui me plait-->
+  
+- ##   I’m currently use <!--ce que j'utilise-->
 
-- ## 🏢 I'm a student at [O'CLOCK](https://oclock.io/) in accessibility web developer 
+- ### Front/End
 
-<!--ce qui me plait-->
+| MARKDOWN                       | HTML5                         | CSS3                         | SASS                          | JavaScript                  |
+|:------------------------------:|:-----------------------------:|:----------------------------:|:-----------------------------:|:---------------------------:|
+|	![](./meddia/techlogo/mark.png)|![](./meddia/techlogo/html.png)|![](./meddia/techlogo/css.png)|![](./meddia/techlogo/sass.png)|![](./meddia/techlogo/js.png)|
 
-- ## 👀 I’m interested in all development languages 
- <img src="https://media.giphy.com/media/Pc16mmoHoXBh6/giphy.gif">
+- ### Other Techno
 
-  <!--ce que j'apprend-->
- 
-  - ##  🌱 I’m currently learning 
+| PARCEL.js                       | NPM.js                      | VS CODE                     | GIT                          |
+|:-------------------------------:|:---------------------------:|:---------------------------:|:----------------------------:|
+|![](./meddia/techlogo/parcel.png)|![](/meddia/techlogo/npm.png)|![](./meddia/techlogo/vs.png)|![](./meddia/techlogo/git.png)|
 
-|MARKDOWN|HTML|CSS|
-|:-----------:|:-----------:|:-----:|
-|<img src="https://camo.githubusercontent.com/8899cca4a2263f0021dfe8c86dc66c296c05138959590297728ccbf7df2f0d5f/68747470733a2f2f7261772e6769746875622e636f6d2f6164616d2d702f6d61726b646f776e2d686572652f6d61737465722f7372632f636f6d6d6f6e2f696d616765732f69636f6e34382e706e67" width="49">|<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/768px-HTML5_logo_and_wordmark.svg.png" width="55">|<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1452px-CSS3_logo_and_wordmark.svg.png" width="40">
+- ### Back/End
+
+| NODE.js                       | REACT.js                       |  
+|:-----------------------------:|:------------------------------:|
+|![](./meddia/techlogo/node.png)|![](./meddia/techlogo/react.png)|	
+
+- ## 🌱I'm currently learning <!-- ce que j'apprend -->
+
+| TypeScript                  | WEBPACK                     |
+|:---------------------------:|:---------------------------:|
+|![](./meddia/techlogo/ts.png)|![](./meddia/techlogo/wp.png)|
 
 <!--ce que je voudrais faire-->
 
 - ## 💞️ I’m looking to collaborate on all you want 
 
+**I like to take up challenges**
+
 <!--comment me joindre-->
 
 - ## 📫 How to reach me ... 
 
-<!--mes trophés github-->
+![](./meddia/techlogo/link.png)  [LINKEDIN PROFIL](www.linkedin.com/in/julien-guilbaud-b1059222a)
 
-- ## Github trophy
+- ## Github trophy <!--mes trophés github-->
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=JulienGuilbaud)](https://github.com/JulienGuilbaud/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=JulienGuilbaud&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!--ce que je ne maitrise pas -->
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0205F7&center=faux&vCenter=faux&width=435&lines=sorry+for)](sorry_for)
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7F6F7&center=faux&vCenter=faux&width=435&lines=my+english)](my_english)
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7040F&center=faux&vCenter=faux&width=435&lines=i+am+french)](i_am_french)
+*Thank you for your attention.*
+
+*And sorry for my english.*
 
 <!---work in progress travail en cours--->
