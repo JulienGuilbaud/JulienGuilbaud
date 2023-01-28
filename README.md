@@ -36,7 +36,7 @@
 
 - ## 📫 How to reach me ... <!--comment me joindre-->
 
-<img src="./meddia/techlogo/link.png" width="50%" ><a href="https://www.linkedin.com/in/julien-guilbaud-b1059222a/" target="_blank" rel="noopener noreferrer">LINKEDIN PROFIL</a>
+<img src="./meddia/techlogo/link.png" width="12.5%" ><a href="https://www.linkedin.com/in/julien-guilbaud-b1059222a/" target="_blank" rel="noopener noreferrer">LINKEDIN PROFIL</a>
 
 - ## Github trophy <!--mes trophés github-->
 
