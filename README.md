@@ -30,17 +30,13 @@
 |:---------------------------:|:---------------------------:|
 |![](./meddia/techlogo/ts.png)|![](./meddia/techlogo/wp.png)|
 
-<!--ce que je voudrais faire-->
-
-- ## 💞️ I’m looking to collaborate on all you want 
+- ## 💞️ I’m looking to collaborate on all you want <!--ce que je voudrais faire-->
 
 **I like to take up challenges**
 
-<!--comment me joindre-->
+- ## 📫 How to reach me ... <!--comment me joindre-->
 
-- ## 📫 How to reach me ... 
-
-![](./meddia/techlogo/link.png)  [LINKEDIN PROFIL](www.linkedin.com/in/julien-guilbaud-b1059222a)
+<img src="./meddia/techlogo/link.png" width="50%" ><a href="https://www.linkedin.com/in/julien-guilbaud-b1059222a/" target="_blank" rel="noopener noreferrer">LINKEDIN PROFIL</a>
 
 - ## Github trophy <!--mes trophés github-->
 
