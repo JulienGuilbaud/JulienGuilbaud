@@ -1,34 +1,34 @@
-- # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Hi, I’m Julien GUILBAUD <!--qui je suis-->
+- # 👋 Hi, I’m Julien GUILBAUD <!--qui je suis-->
 
 - ## 🏢 I'm a student at [O'CLOCK](https://oclock.io/) in accessibility web developer <!--ce que je suis-->
 
 - ## 👀 I’m interested in all development languages <!--ce qui me plait-->
   
-- ##   I’m currently use <!--ce que j'utilise-->
+- ## 🌳🌲 I’m currently use <!--ce que j'utilise-->
 
-- ### Front/End
+- ### 🎨 Front/End
 
-| MARKDOWN                       | HTML5                         | CSS3                         | SASS                          | JavaScript                  |
-|:------------------------------:|:-----------------------------:|:----------------------------:|:-----------------------------:|:---------------------------:|
-|	![](./meddia/techlogo/mark.png)|![](./meddia/techlogo/html.png)|![](./meddia/techlogo/css.png)|![](./meddia/techlogo/sass.png)|![](./meddia/techlogo/js.png)|
+| MARKDOWN                     | HTML5                        | CSS3                        | SASS                         | JavaScript                 | REACT.js                      |
+|:----------------------------:|:----------------------------:|:---------------------------:|:----------------------------:|:--------------------------:|:-----------------------------:|
+|![](./media/techlogo/mark.png)|![](./media/techlogo/html.png)|![](./media/techlogo/css.png)|![](./media/techlogo/sass.png)|![](./media/techlogo/js.png)|![](./media/techlogo/react.png)|
 
-- ### Other Techno
+- ### 🛠 Other Techno
 
-| PARCEL.js                       | NPM.js                      | VS CODE                     | GIT                          |
-|:-------------------------------:|:---------------------------:|:---------------------------:|:----------------------------:|
-|![](./meddia/techlogo/parcel.png)|![](/meddia/techlogo/npm.png)|![](./meddia/techlogo/vs.png)|![](./meddia/techlogo/git.png)|
+| PARCEL.js                      | NPM.js                      | VS CODE                    | GIT                         |
+|:------------------------------:|:---------------------------:|:--------------------------:|:---------------------------:|
+|![](./media/techlogo/parcel.png)|![](./media/techlogo/npm.png)|![](./media/techlogo/vs.png)|![](./media/techlogo/git.png)|
 
-- ### Back/End
+- ### ⚙ Back/End
 
-| NODE.js                       | REACT.js                       |  
-|:-----------------------------:|:------------------------------:|
-|![](./meddia/techlogo/node.png)|![](./meddia/techlogo/react.png)|	
+| NODE.js                      | Express.js                   |
+|:----------------------------:|:----------------------------:|
+|![](./media/techlogo/node.png)|![](./meddia/techlogo/exp.png)|
 
 - ## 🌱I'm currently learning <!-- ce que j'apprend -->
 
-| TypeScript                  | WEBPACK                     |
-|:---------------------------:|:---------------------------:|
-|![](./meddia/techlogo/ts.png)|![](./meddia/techlogo/wp.png)|
+| TypeScript                 | WEBPACK                    |   
+|:--------------------------:|:--------------------------:|    
+|![](./media/techlogo/ts.png)|![](./media/techlogo/wp.png)|   
 
 - ## 💞️ I’m looking to collaborate on all you want <!--ce que je voudrais faire-->
 
@@ -36,7 +36,7 @@
 
 - ## 📫 How to reach me ... <!--comment me joindre-->
 
-<img src="./meddia/techlogo/link.png" width="12.5%" ><a href="https://www.linkedin.com/in/julien-guilbaud-b1059222a/" target="_blank" rel="noopener noreferrer">LINKEDIN PROFIL</a>
+<img src="./media/techlogo/link.png" width="12.5%" ><a href="https://www.linkedin.com/in/julien-guilbaud-b1059222a/" target="_blank" rel="noopener noreferrer">LINKEDIN PROFIL</a>
 
 - ## Github trophy <!--mes trophés github-->
 
