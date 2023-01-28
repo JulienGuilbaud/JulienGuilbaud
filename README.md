@@ -3,6 +3,8 @@
 - ## 🏢 I'm a student at [O'CLOCK](https://oclock.io/) in accessibility web developer <!--ce que je suis-->
 
 - ## 👀 I’m interested in all development languages <!--ce qui me plait-->
+
+---
   
 - ## 🌳🌲 I’m currently use <!--ce que j'utilise-->
 
@@ -24,11 +26,15 @@
 |:----------------------------:|:---------------------------:|
 |![](./media/techlogo/node.png)|![](./media/techlogo/exp.png)|
 
+---
+
 - ## 🌱I'm currently learning <!-- ce que j'apprend -->
 
 | TypeScript                 | WEBPACK                    |   
 |:--------------------------:|:--------------------------:|    
-|![](./media/techlogo/ts.png)|![](./media/techlogo/wp.png)|   
+|![](./media/techlogo/ts.png)|![](./media/techlogo/wp.png)| 
+
+---
 
 - ## 💞️ I’m looking to collaborate on all you want <!--ce que je voudrais faire-->
 
@@ -38,7 +44,7 @@
 
 <img src="./media/techlogo/link.png" width="12.5%" ><a href="https://www.linkedin.com/in/julien-guilbaud-b1059222a/" target="_blank" rel="noopener noreferrer">  LINKEDIN PROFIL</a>
 
-<img src="./media/techlogo/hexalogo.png" width="12.5%" ><a href="https://julienguilbaud.github.io/" target="_blank" rel="noopener noreferrer">  PORTFOLIO</a>
+<img src="./media/techlogo/android-chrome-192x192.png" width="12.5%" ><a href="https://julienguilbaud.github.io/" target="_blank" rel="noopener noreferrer">  PORTFOLIO</a>
 
 
 - ## Github trophy <!--mes trophés github-->
@@ -52,3 +58,5 @@
 *And sorry for my english.*
 
 <!---work in progress travail en cours--->
+
+---
