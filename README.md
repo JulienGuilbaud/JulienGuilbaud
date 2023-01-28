@@ -20,9 +20,9 @@
 
 - ### ⚙ Back/End
 
-| NODE.js                      | Express.js                   |
-|:----------------------------:|:----------------------------:|
-|![](./media/techlogo/node.png)|![](./meddia/techlogo/exp.png)|
+| NODE.js                      | Express.js                  |
+|:----------------------------:|:---------------------------:|
+|![](./media/techlogo/node.png)|![](./media/techlogo/exp.png)|
 
 - ## 🌱I'm currently learning <!-- ce que j'apprend -->
 
@@ -36,7 +36,10 @@
 
 - ## 📫 How to reach me ... <!--comment me joindre-->
 
-<img src="./media/techlogo/link.png" width="12.5%" ><a href="https://www.linkedin.com/in/julien-guilbaud-b1059222a/" target="_blank" rel="noopener noreferrer">LINKEDIN PROFIL</a>
+<img src="./media/techlogo/link.png" width="12.5%" ><a href="https://www.linkedin.com/in/julien-guilbaud-b1059222a/" target="_blank" rel="noopener noreferrer">  LINKEDIN PROFIL</a>
+
+<img src="./media/techlogo/hexalogo.png" width="12.5%" ><a href="https://julienguilbaud.github.io/" target="_blank" rel="noopener noreferrer">  PORTFOLIO</a>
+
 
 - ## Github trophy <!--mes trophés github-->
 
