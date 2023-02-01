@@ -57,6 +57,8 @@
 
 *And sorry for my english.*
 
+ <video src="/media/mind-blown@2x.webm" autoplay muted loop></video>
+
 <!---work in progress travail en cours--->
 
 ---
