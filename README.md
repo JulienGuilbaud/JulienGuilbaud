@@ -22,17 +22,17 @@
 
 - ### ⚙ Back/End
 
-| NODE.js                      | Express.js                  |
-|:----------------------------:|:---------------------------:|
-|![](./media/techlogo/node.png)|![](./media/techlogo/exp.png)|
+| NODE.js                      | Express.js                  | PostgreSQL                   | 
+|:----------------------------:|:---------------------------:|:----------------------------:|   
+|![](./media/techlogo/node.png)|![](./media/techlogo/exp.png)|![](./media/techlogo/psql.png)|
 
 ---
 
 - ## 🌱I'm currently learning <!-- ce que j'apprend -->
 
-| TypeScript                 | WEBPACK                    |   
-|:--------------------------:|:--------------------------:|    
-|![](./media/techlogo/ts.png)|![](./media/techlogo/wp.png)| 
+| TypeScript                 | WEBPACK                    | 
+|:--------------------------:|:--------------------------:|
+|![](./media/techlogo/ts.png)|![](./media/techlogo/wp.png)|
 
 ---
 
@@ -44,7 +44,7 @@
 
 <img src="./media/techlogo/link.png" width="12.5%" ><a href="https://www.linkedin.com/in/julien-guilbaud-b1059222a/" target="_blank" rel="noopener noreferrer">  LINKEDIN PROFIL</a>
 
-<img src="./media/techlogo/android-chrome-192x192.png" width="12.5%" ><a href="https://julienguilbaud.github.io/" target="_blank" rel="noopener noreferrer">  PORTFOLIO</a>
+<img src="./media/techlogo/picwish.png" width="12.5%" ><a href="https://julienguilbaud.github.io/" target="_blank" rel="noopener noreferrer">  PORTFOLIO</a>
 
 
 - ## Github trophy <!--mes trophés github-->
