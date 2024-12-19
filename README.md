@@ -1,64 +1,36 @@
-- # 👋 Hi, I’m Julien GUILBAUD <!--qui je suis-->
+# Hi there 👋, I'm Julien Guilbaud
 
-- ## 🏢 I'm a student at [O'CLOCK](https://oclock.io/) in accessibility web developer <!--ce que je suis-->
+![Profile Views](https://komarev.com/ghpvc/?username=JulienGuilbaud)
 
-- ## 👀 I’m interested in all development languages <!--ce qui me plait-->
+## About Me
 
----
-  
-- ## 🌳🌲 I’m currently use <!--ce que j'utilise-->
+I'm a passionate developer with experience in various programming languages and technologies. I enjoy solving complex problems and continually learning new things.
 
-- ### 🎨 Front/End
+- 🔭 I’m currently working on [Your Current Project](#)
+- 🌱 I’m currently learning [Technology/Language]
+- 👯 I’m looking to collaborate on [Project/Technology]
+- 🤔 I’m looking for help with [Problem/Technology]
+- 💬 Ask me about [Your Expertise/Interest]
+- 📫 How to reach me: [Your Email](mailto:your-email@example.com)
+- 😄 Pronouns: [Your Pronouns]
+- ⚡ Fun fact: [Interesting Fact About You]
 
-| MARKDOWN                     | HTML5                        | CSS3                        | SASS                         | JavaScript                 | REACT.js                      |
-|:----------------------------:|:----------------------------:|:---------------------------:|:----------------------------:|:--------------------------:|:-----------------------------:|
-|![](./media/techlogo/mark.png)|![](./media/techlogo/html.png)|![](./media/techlogo/css.png)|![](./media/techlogo/sass.png)|![](./media/techlogo/js.png)|![](./media/techlogo/react.png)|
+## GitHub Stats
 
-- ### 🛠 Other Techno
+![Julien's GitHub stats](https://github-readme-stats.vercel.app/api?username=JulienGuilbaud&show_icons=true&theme=radical)
 
-| PARCEL.js                      | NPM.js                      | VS CODE                    | GIT                         |
-|:------------------------------:|:---------------------------:|:--------------------------:|:---------------------------:|
-|![](./media/techlogo/parcel.png)|![](./media/techlogo/npm.png)|![](./media/techlogo/vs.png)|![](./media/techlogo/git.png)|
+## Languages and Tools
 
-- ### ⚙ Back/End
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-| NODE.js                      | Express.js                  | PostgreSQL                   | 
-|:----------------------------:|:---------------------------:|:----------------------------:|   
-|![](./media/techlogo/node.png)|![](./media/techlogo/exp.png)|![](./media/techlogo/psql.png)|
+## Connect with Me
 
----
-
-- ## 🌱I'm currently learning <!-- ce que j'apprend -->
-
-| TypeScript                 | WEBPACK                    | 
-|:--------------------------:|:--------------------------:|
-|![](./media/techlogo/ts.png)|![](./media/techlogo/wp.png)|
-
----
-
-- ## 💞️ I’m looking to collaborate on all you want <!--ce que je voudrais faire-->
-
-**I like to take up challenges**
-
-- ## 📫 How to reach me ... <!--comment me joindre-->
-
-<img src="./media/techlogo/link.png" width="12.5%" ><a href="https://www.linkedin.com/in/julien-guilbaud-b1059222a/" target="_blank" rel="noopener noreferrer">  LINKEDIN PROFIL</a>
-
-<img src="./media/techlogo/picwish.png" width="12.5%" ><a href="https://julienguilbaud.github.io/" target="_blank" rel="noopener noreferrer">  PORTFOLIO</a>
-
-
-- ## Github trophy <!--mes trophés github-->
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=JulienGuilbaud&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
-<!--ce que je ne maitrise pas -->
-
-*Thank you for your attention.*
-
-*And sorry for my english.*
-
- <video src="/media/mind-blown@2x.webm" autoplay muted loop></video>
-
-<!---work in progress travail en cours--->
-
----
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/julienguilbaud/)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/JulienGuilbaud)
