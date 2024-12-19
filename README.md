@@ -6,9 +6,9 @@
 
 I'm a passionate developer with experience in various programming languages and technologies. I enjoy solving complex problems and continually learning new things.
 
-- 🔭 I’m currently working on Ecommerce (Shopify, Odoo, Woocommerce) , ERP/CRM (Odoo) and CMS (Wordpress)
-- 🌱 I’m currently learning Python Liquid Javascript ... 
-- 👯 I’m looking to collaborate on fun project
+- 🔭 I’m currently working on Ecommerce (Shopify, Odoo, Woocommerce), ERP/CRM (Odoo) and CMS (Wordpress)
+- 🌱 I’m currently learning Python, Liquid, Javascript ...
+- 👯 I’m looking to collaborate on fun projects
 - 💬 Ask me about Accessibility and Web development
 - 📫 How to reach me: [dev.guilbaud@gmail.com](mailto:dev.guilbaud@gmail.com)
 - ⚡ Fun fact: I'm passionate about all kinds of motor sports: snowmobiling, ATVs, UTVs, dirt bikes and off-road...
@@ -35,5 +35,4 @@ I'm a passionate developer with experience in various programming languages and 
 
 ## Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/julien-guilbaud-b1059222a)]
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/julien-guilbaud-b1059222a/)
