@@ -19,9 +19,7 @@ Je suis un développeur passionné, dédié à la création de solutions efficac
   <img src="https://github-readme-stats.vercel.app/api?username=JulienGuilbaud&show_icons=true&theme=radical&count_private=true&hide_border=true" alt="Statistiques GitHub de Julien" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JulienGuilbaud&layout=compact&theme=radical&hide_border=true" alt="Langages les plus utilisés" />
 </p>
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=JulienGuilbaud&theme=radical&hide_border=true" alt="Statistiques de contribution GitHub" />
-</p>
+
 
 ## Langages et Outils 🛠️
 
